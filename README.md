@@ -6,3 +6,9 @@ First tasks:
 * sign up for an api key
 * decide on a language
 * code goal: send an arbitrary keyword search for an individual city.
+
+* Connie
+* Raleigh
+* JJ
+* Angela
+* Josue
